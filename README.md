@@ -67,7 +67,7 @@ POST	/produtos	Cria um novo produto
 PUT	/produtos/{id}	Atualiza um produto
 DELETE	/produtos/{id}	Deleta um produto
 
-📸 Prints do Funcionamento
+📸 Print do Funcionamento
 
 ![Console da Aplicação](https://raw.githubusercontent.com/Richard-Sup-Dev/rest-api-produtos/main/images/console.png)
 
