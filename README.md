@@ -69,7 +69,7 @@ DELETE	/produtos/{id}	Deleta um produto
 
 📸 Print do Funcionamento
 
-![Console da Aplicação](https://raw.githubusercontent.com/Richard-Sup-Dev/rest-api-produtos/main/images/console.png)
+(https://raw.githubusercontent.com/Richard-Sup-Dev/rest-api-produtos/main/images/console.png)
 
 
 👨‍💻 Autor
