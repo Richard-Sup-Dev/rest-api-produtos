@@ -67,11 +67,6 @@ POST	/produtos	Cria um novo produto
 PUT	/produtos/{id}	Atualiza um produto
 DELETE	/produtos/{id}	Deleta um produto
 
-📸 Print do Funcionamento
-
-![Console da Aplicação](https://raw.githubusercontent.com/Richard-Sup-Dev/rest-api-produtos/main/images/console.jpeg)
-
-
 👨‍💻 Autor
 Richard Itsou Lima
 📌 Estudante de Análise e Desenvolvimento de Sistemas (UNIP)
